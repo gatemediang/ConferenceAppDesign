@@ -4,4 +4,4 @@ This poject is a Conference App Front End Design design with HTML, CSS, & Javasc
 
 ![ConferenceAppDesign](/img/frnt.PNG)
 
-View app [here](https://gatemediang.github.io/ConferenceAppDesign)
+View app [here](https://gatemediang.github.io/ConferenceAppDesign/)
