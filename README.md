@@ -1,6 +1,6 @@
 # NiFixSocial
 
-This poject is a Social Media App design with HTML, CSS, & Javascript
+This poject is a Conference App Front End Design design with HTML, CSS, & Javascript
 
 ![ConferenceAppDesign](/img/frnt.PNG)
 
